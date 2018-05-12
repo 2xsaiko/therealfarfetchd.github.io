@@ -9,4 +9,4 @@ Some of my released stuff is here on this page, like the Minecraft mods [RetroCo
 
 <sup>ugh, I can't write an about page to save my life…</sup>
 
-[1]: /hctm/
+[1]: /hctm
