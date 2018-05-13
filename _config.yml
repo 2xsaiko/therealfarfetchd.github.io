@@ -30,6 +30,7 @@ plugins:
 header_pages:
   - _pages/quacklib.md
   - _pages/hctm.md
+  - _pages/maven.md
   - _pages/about.md
 
 collections:
